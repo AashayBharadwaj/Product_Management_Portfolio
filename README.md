@@ -7,7 +7,7 @@ There will be a mix of product breakdowns, adding new features, new product idea
 
 Project 1:-
 -You can start with the Bumble-Presentation. Here my team and I worked on adding new features to make it better and make the experience more authentic for the users.
-![Alt text](Images/bumblel-summary.png)
+![Alt text](Images/bumble-summary.png)
 
 
 Project 2:-
