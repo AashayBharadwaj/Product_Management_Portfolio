@@ -18,6 +18,8 @@ To find the full presentation. Please go through the Bumble-Presentation.pdf
 Project 2:-
 -The second project is called Empowerly. This is a new product idea with a simplified UI payment app for the elderly. (Empowering the elderly = Empowerly)
 
+![Alt text](Images/Empowerly.png)
+
 Project 3 & 4:-
 -These are the product breakdowns of Tiktok and Facebook. Feature breakdown, demography etc.
 
