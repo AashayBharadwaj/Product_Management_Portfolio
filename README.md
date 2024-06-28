@@ -12,7 +12,7 @@ Here my team and I worked on adding new features to make it better and make the 
 
 ![Alt text](Images/bumble-summary.png)
 
-To find the full presentation. Please go through the Bumble-Presentation.ppt
+To find the full presentation. Please go through the Bumble-Presentation.pdf
 
 
 Project 2:-
