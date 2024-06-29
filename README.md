@@ -20,5 +20,8 @@ Empowerly is a new product idea aimed at creating a simplified UI payment app de
 
 These projects involve detailed breakdowns of TikTok and Facebook, including feature analysis, demographics, and more.
 
+<img src="Images/FacebookVsTiktok.png" alt="Bumble Summary" width="800"/>
+
+Go through the respective pdf files to see the breakdown in detail.
 
 
