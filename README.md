@@ -16,6 +16,8 @@ Empowerly is a new product idea aimed at creating a simplified UI payment app de
 
 <img src="Images/Empowerly.png" alt="Empowerly" width="800"/>
 
+To view the full presentation, please refer to [Team Next-Gen Navigators - Empowerly.pdf](Team%20Next-Gen%20Navigators%20-%20Empowerly.pdf).
+
 ## Projects 3 & 4: Product Breakdowns - TikTok and Facebook
 
 These projects involve detailed breakdowns of TikTok and Facebook, including feature analysis, demographics, and more.
