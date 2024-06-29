@@ -7,6 +7,7 @@ Welcome to my product management portfolio! Here you'll find a collection of my 
 In this project, my team and I worked on enhancing Bumble by adding new features to improve user experience and authenticity.
 
 ![Bumble Summary](Images/bumble-summary.png)
+<img src="Images/bumble-summary.png" alt="Bumble Summary" width="400"/>
 
 To view the full presentation, please refer to [Bumble-Presentation.pdf](Bumble-Presentation.pdf).
 
