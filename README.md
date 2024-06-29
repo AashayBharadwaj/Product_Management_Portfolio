@@ -1,28 +1,24 @@
-# Product_Management_Portfolio
+# Product Management Portfolio
 
--Here you'll find my product management projects.
-There will be a mix of product breakdowns, adding new features, new product ideas etc.
+Welcome to my product management portfolio! Here you'll find a collection of my projects focused on product breakdowns, adding new features, and exploring new product ideas.
 
+## Project 1: Bumble-Presentation
 
+In this project, my team and I worked on enhancing Bumble by adding new features to improve user experience and authenticity.
 
-Project 1:-
--You can start with the Bumble-Presentation. 
-Here my team and I worked on adding new features to make it better and make the experience more authentic for the users.
+![Bumble Summary](Images/bumble-summary.png)
 
+To view the full presentation, please refer to [Bumble-Presentation.pdf](Bumble-Presentation.pdf).
 
-![Alt text](Images/bumble-summary.png)
+## Project 2: Empowerly
 
-To find the full presentation. Please go through the Bumble-Presentation.pdf
+Empowerly is a new product idea aimed at creating a simplified UI payment app designed specifically for the elderly, empowering them through technology.
 
+![Empowerly](Images/Empowerly.png)
 
-Project 2:-
--The second project is called Empowerly. This is a new product idea with a simplified UI payment app for the elderly. (Empowering the elderly = Empowerly)
+## Projects 3 & 4: Product Breakdowns - TikTok and Facebook
 
-![Alt text](Images/Empowerly.png)
-
-Project 3 & 4:-
--These are the product breakdowns of Tiktok and Facebook. Feature breakdown, demography etc.
-
+These projects involve detailed breakdowns of TikTok and Facebook, including feature analysis, demographics, and more.
 
 
 
